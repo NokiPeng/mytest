@@ -1,0 +1,1 @@
+cmd_/home/noki/workspace/holle_dev_makefile/miscdevice_test.ko := arm-linux-ld -EL -r  -T /home/noki/arm/kernel/linux-2.6.32.2/scripts/module-common.lds --build-id -o /home/noki/workspace/holle_dev_makefile/miscdevice_test.ko /home/noki/workspace/holle_dev_makefile/miscdevice_test.o /home/noki/workspace/holle_dev_makefile/miscdevice_test.mod.o
